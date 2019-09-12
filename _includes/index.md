@@ -6,9 +6,7 @@ Startup mentors are experienced professionals and investors. But founders often 
 
 So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
 
-<form action="https://gum.co/mentorimpact?wanted=true""><button>Buy the book</button></form>
-
-
+<form action="https://gum.co/mentorimpact?wanted=true"><button>Buy the book</button></form>
 <div class="price">$8<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
@@ -75,7 +73,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 
 <div class="cta">
 <span class="price">
-  <form action="https://gum.co/mentorimpact?wanted=true""><button>Buy the book</button></form>
+  <form action="https://gum.co/mentorimpact?wanted=true"><button>Buy the book</button></form>
 </span>
 <div class="price">$8 <br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
