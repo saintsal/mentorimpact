@@ -4,7 +4,7 @@
 
 Startup mentors are experienced professionals and investors. But founders often leave mentoring more confused than they started. And they often miss the best advice.
 
-So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
+So we did some research. We found the mentors that made the biggest difference to the startups in the world's top-performing accelerators, and we asked them how they do it.
 
 <a href="https://gum.co/mentorimpact?wanted=true" class="buybutton">Buy the book</a>
 <div class="price">$38<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
@@ -54,11 +54,15 @@ So we did some research. We found the mentors that truly changed startups, and w
 # About Mentor Impact
 
 
-Working with some of the world's top accelerators, like Seedcamp and Techstars, we asked for the mentors who regularly make huge contributions to their startups, the ones that really change things.  We went to the best, and we asked them how they do it. 
+Our research approach focused on top performers.  We started with the world's top-performing startup accelerators, focusing on the two that were designed around a mentor network - Techstars and Seedcamp.
+
+There we looked at the top-forming startups, the ones that carried the performance of the overall portfolio, and we asked for the mentors that had made the biggest difference to them.  These were the top performing mentors of the top-performing startups in the top-performing accelerators.
 
 What they told us was surprising -- it contradicted a lot of common knowledge.
 
-Mentor Impact guides you through their different approaches, so you can find what works best for you:
+Over a 3-month deep research process, we interviewed these mentors until we had thorough coverage of their approaches.  This was turned into a mentor training workshop, which was iterated in 5 accelerators over another 6 months.
+
+The result, Mentor Impact, guides you through their different approaches, so you can find what works best for you:
 
 * ways to calibrate your advice, to make sure it's actionable to startups
 * different approaches to knowledge transfer
